@@ -8,7 +8,9 @@ class About extends Component {
         return (
             <div id='about' className='d-flex justify-content-between'>
 
-                <div className='textAbout'><div className='mt-5'><h3>About me</h3><p>I come from Iran and worked there as a journalist. After successfully completing a bachelor's degree as a translator for Italian, in 2012 I started my journalistic work at the specialist journal for medical technology Sanatdarman in Teheran, where I first worked as a photographer and specialist translator from English. After completing my journalistic education at Sanatdarman, I took over the responsibility for planning and conducting interviews and image reports during trade fair visits at home and abroad. It was also my job to examine texts for stylistics, grammar and professional correctness. Now i am in Germanynear three yeras and i can speak Gemany.I started to learn Web developing and this is my first work as a Web developer! I want make a connection between Media and Web developing in the future.</p></div></div>
+                <div className='textAbout'><div className='mt-5'><h3>About me</h3><p>I come from Iran and i worked there as a journalist. After a few years in Germany I started 12 months of training to learn web development . I want to make a connection between media and web development in the future.
+I have learned HTML4, CSS3, Scss, less, JavaScript, JQuery, Bootstrap, ReactJS, ReduxJS, NodeJS, ExpressJs, MongoDB(MoongooseJS,Mlab) and can work with Linux, Github, Trello, Scrum, Postman, npm, nvm and Visual Studio.
+I am better educated in the following areas: Webdesign, Css, JavaScript, Bootstrap and React.</p></div></div>
 
                 <div className='skills '>
                     <div className='mt-5'>
