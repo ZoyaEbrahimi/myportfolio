@@ -1,0 +1,40 @@
+body {
+  background-color: aquamarine;
+  background-image: url("timer01.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;  
+}
+#timer {
+  font-size:100px;
+  margin:0 auto;
+  width:1000px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+#controls {
+  position: absolute;
+  left:50%;
+  top:50%;
+  transform: translate(-50%, -50%);
+
+  /* margin:0 auto;
+  width:600px;     */
+}
+
+#controls button{
+  background-color: rgb(111, 84, 116);
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 50%;
+  box-shadow: 5px 10px #886060;
+  
+  
+}

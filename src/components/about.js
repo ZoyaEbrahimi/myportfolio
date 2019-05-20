@@ -16,11 +16,11 @@ I am better educated in the following areas: Webdesign, Css, JavaScript, Bootstr
                     <div className='mt-5'>
                         <h3>My Skills</h3>
                         <ul id="skill">
-                            <li><span class="bar graphic-design"></span><h3>Html // Css</h3></li>
-                            <li><span class="bar html-css"></span><h3>JavaScript</h3></li>
-                            <li><span class="bar jquery"></span><h3>ReactJs</h3></li>
+                            <li><span className="bar graphic-design"></span><h3>Html // Css</h3></li>
+                            <li><span className="bar html-css"></span><h3>JavaScript</h3></li>
+                            <li><span className="bar jquery"></span><h3>ReactJs</h3></li>
                             <li>
-                                <span class="bar wordpress"></span><h3>NodeJs</h3></li>
+                                <span className="bar wordpress"></span><h3>NodeJs</h3></li>
 
                         </ul>
                     </div>

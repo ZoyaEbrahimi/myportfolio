@@ -5,7 +5,7 @@ html {
 body {
 	margin:0;
 	font-family: 'Gloria Hallelujah', cursive;
-	background-color: rgb(243, 240, 240);
+	background-color: rgb(224, 198, 111);
 
 }
 
@@ -63,7 +63,7 @@ body {
 }
 #about{
   height: 800px;
-  background-image: url('./components/zoya03');
+  background-image: url('/myImages/zoya03');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat
@@ -71,7 +71,7 @@ body {
 
 #contact{
 	height: 800px;
-	background-image: url('./components/zoya04.jpg');
+	background-image: url('/myImages/zoya04.jpg');
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -101,7 +101,6 @@ body {
   }
 }
 
-body { background: #E9E5E2 ; }
 
 #skill { 
 	list-style: none;
@@ -212,12 +211,12 @@ body { background: #E9E5E2 ; }
 h1 {
 	background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
 	background-size: cover;
-	color: transparent;
+	 color: transparent;
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
 	text-transform: uppercase;
-	font-size: 80px;
-	line-height: .75;
+	font-size: 70px;
+	line-height: .75; 
 	margin: 10px 0;
 }
 /* styling my button */
