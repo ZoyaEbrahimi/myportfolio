@@ -12,12 +12,12 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -29,5 +29,5 @@
     "not op_mini all"
   ],
   
-  "home": "https://zoyaebrahimi.github.io/myportfolio/"
+  "homepage": "https://zoyaebrahimi.github.io/myportfolio"
 }
