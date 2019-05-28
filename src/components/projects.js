@@ -11,11 +11,11 @@ class Projects extends Component {
 
     render() {
         return (
-            < div id='project' className='d-flex justify-content-between' >
-                <Card style={{ width: '20rem' }}>
+            < div id='project' className="d-flex justify-content-between" >
+                <Card style={{ width: "20rem" }}>
                     <Card.Img variant="top" src="/myImages/calculator" />
                     <Card.Body>
-                        <Card.Title>Javascript Calculator</Card.Title>
+                        <Card.Title>Calculator</Card.Title>
                         <Card.Text>
                             This is my first Js Calculator
                         </Card.Text>
@@ -23,7 +23,7 @@ class Projects extends Component {
                     </Card.Body>
                 </Card>
 
-                <Card style={{ width: '20rem' }}>
+                <Card style={{ width: "20rem" }}>
                     <Card.Img variant="top" src="/myImages/todolist.jpg" style={{height: '300px'}}/>
                     <Card.Body>
                         <Card.Title>To Do List</Card.Title>
@@ -34,10 +34,10 @@ class Projects extends Component {
                     </Card.Body>
                 </Card>
 
-                <Card style={{ width: '20rem' }}>
+                <Card style={{ width: "20rem" }}>
                     <Card.Img variant="top" src="/myImages/project03.jpeg" style={{height: '300px'}}/>
                     <Card.Body>
-                        <Card.Title>JQuery Timer</Card.Title>
+                        <Card.Title>Timer</Card.Title>
                         <Card.Text>
                             This is my first Timer.
                         </Card.Text>
@@ -46,7 +46,7 @@ class Projects extends Component {
                     </Card.Body>
                 </Card>
 
-                <Card style={{ width: '20rem' }}>
+                <Card style={{ width: "20rem" }}>
                     <Card.Img variant="top" src="/myImages/project04.jpg"/>
                     <Card.Body>
                         <Card.Title>Current Weather</Card.Title>
